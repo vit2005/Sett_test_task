@@ -1,6 +1,7 @@
 # Sett_test_task
 
-![image](https://github.com/user-attachments/assets/6729541c-13f5-47a7-a861-88318d174263)
+![image](https://github.com/user-attachments/assets/a8700022-4767-4a61-b903-6195b516313f)
+
 
 
 In this exercise you will build simple robots.
