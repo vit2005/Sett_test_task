@@ -1,5 +1,8 @@
 # Sett_test_task
 
+![image](https://github.com/user-attachments/assets/6bcc5a63-c770-40c6-8a73-f87f86519223)
+
+
 In this exercise you will build simple robots.
 Each robot is a gameobject (can be a cube) with a list of instructions.
 Each instruction is a list of commands and each command can be one of the following three:
