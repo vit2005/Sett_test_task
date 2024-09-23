@@ -1,6 +1,6 @@
 # Sett_test_task
 
-![image](https://github.com/user-attachments/assets/0be87ac5-27fb-47e1-8063-bbd472bf8029)
+![image](https://github.com/user-attachments/assets/9ec8a39f-2e92-43b4-9e9b-7cd334795ead)
 
 In this exercise you will build simple robots.
 Each robot is a gameobject (can be a cube) with a list of instructions.
